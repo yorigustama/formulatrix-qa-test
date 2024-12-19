@@ -98,14 +98,14 @@ Commit changes to the repository:
 - ❌ ModuleNotFoundError: selenium	Run pip install selenium to install the Selenium library.
 
 ## 🤝 Contributing
-Contributions are welcome!
-Please fork the repository, create a feature branch, and submit a pull request.
-Ensure all new features are tested before submission.
+- Contributions are welcome!
+- Please fork the repository, create a feature branch, and submit a pull request.
+- Ensure all new features are tested before submission.
 
 ## 👤 Author
-Name: Yori Fiandika
-Email: yfiandika@gmail.com
-GitHub: ygustam
+- Name: Yori Fiandika
+- Email: yfiandika@gmail.com
+- GitHub: ygustam
 
 ## 📜 License
 This project is licensed under the MIT License. See the LICENSE file for details.
