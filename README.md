@@ -51,14 +51,14 @@ To run the tests, navigate to the project directory in the terminal and execute:
 - pytest test_demoblaze.py
 
 ## 📄 Test results will be displayed directly in the terminal.
-## 📊 Test Scenarios
+### 📊 Test Scenarios
 - 🔑 Login =	Verify that a user can log in with valid credentials.
 - 🛒 Add to Cart =	Test that products can be added to the shopping cart.
 - 📦 Cart = Check	Ensure added products appear correctly in the cart.
 - 🚪 Logout =	Test that a user can log out successfully.
 
 
-## 📁 File Structure
+### 📁 File Structure
 - bash
 - Copy code
 - formulatrix-qa-test/
@@ -66,7 +66,7 @@ To run the tests, navigate to the project directory in the terminal and execute:
 ├── requirements.txt          # Dependencies
 ├── README.md                 # Project documentation
 
-## 🔧 How to Modify or Extend the Tests
+### 🔧 How to Modify or Extend the Tests
 Add new test cases:
 Create a new function in test_demoblaze.py using the pytest framework.
 Example:
