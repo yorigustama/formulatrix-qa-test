@@ -28,7 +28,7 @@ class TestDemoBlaze:
         time.sleep(3)
         
         # Verify login success
-        assert "Welcome testuser" in driver.page_source
+        assert "Welcome test user" in driver.page_source
 
     def test_add_to_cart(self):
         """Test adding a product to the cart"""
